@@ -1,5 +1,5 @@
 # xicor
-Chatterjee's rank correlation Use xicor STATA 19
+Chatterjee's rank correlation Use xicor With STATA 19
 
 Olah Data Semarang
 
