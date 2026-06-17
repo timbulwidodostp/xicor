@@ -2,4 +2,4 @@
 1
 2
 3
-p xicor Chatterjee's rank correlation Use xicor STATA 19
+p xicor Chatterjee's rank correlation Use xicor With STATA 19
